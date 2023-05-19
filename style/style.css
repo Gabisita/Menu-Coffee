@@ -1,0 +1,48 @@
+body{
+ background-image: url(https://media.istockphoto.com/id/466732980/es/foto/grano-de-caf%C3%A9.jpg?s=612x612&w=0&k=20&c=GzRuk5CJehkdwDh6BhlQudbqRHEp3GRsDDk6jgwWyjw=);
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ display: flex;
+ justify-content: center;
+}
+
+.menu{
+ background-color: burlywood;
+ padding: 20px; 
+ margin-top: 12px;
+ justify-content: center;
+ min-width: 400px;
+ max-width: 700px;
+ font-weight: 500;
+}
+
+hr{
+    border: none;
+    height: 3px;
+}
+
+.tit{
+    text-align: center;
+    font-weight: 900;
+}
+
+.contact{
+    text-align: center;
+}
+
+.item{
+    display:flex;
+    justify-content: space-between;
+}
+
+.flavors{
+ align-items: left;
+}
+
+.price{
+align-items: right;
+}  
+
+h2{
+    text-align: center;
+    font-weight: 900;
+}   
